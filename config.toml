@@ -27,7 +27,7 @@ paginate     = 10
   # Social icons
   [[params.social]]
     name = "email"
-    url  = "mailto:hi@yhkang.net"
+    url  = "https://yhkang.zhubai.love/"
 
   [[params.social]]
     name = "github"
