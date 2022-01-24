@@ -72,4 +72,4 @@ paginate     = 10
   [[menu.main]]
     identifier = "rili"
     name       = "单向历"
-    url        = "https://www.yhkang.net/rili/"
+    url        = "https://rili.yhkang.net/"
