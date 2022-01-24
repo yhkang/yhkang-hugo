@@ -68,3 +68,8 @@ paginate     = 10
     identifier = "newsletter"
     name       = "Newsletter"
     url        = "https://yhkang.zhubai.love/"
+
+  [[menu.main]]
+    identifier = "rili"
+    name       = "单向历"
+    url        = "https://www.yhkang.net/rili/"
