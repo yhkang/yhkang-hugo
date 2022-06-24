@@ -72,7 +72,7 @@ paginate     = 10
   [[menu.main]]
     identifier = "tools"
     name       = "Tools"
-    url        = "https://raindrop.io/kang/tools-25510784"
+    url        = "https://www.yhkang.net/tools"
 
   [[menu.main]]
     identifier = "rili"
